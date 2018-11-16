@@ -1,0 +1,48 @@
+ Error Log File - d:\hand_design\sz.prt
+
+
+
+ The Version is Pro/ENGINEER VERSION - 31
+
+
+
+ FEATURE NUMBER		1
+
+ SOLIDWORKS FEATURE NAME		‘≠µ„
+
+ DEFINE STATE	 non-geometry feature  
+
+ FEATURE NAME	 UnknownFeature
+
+ FEATURE TYPE	 CoordSys  
+
+ CONVERSION STATUS	NA (It's not a geometric feature) 
+ 
+ 
+ 
+ FEATURE NUMBER		2
+
+ SOLIDWORKS FEATURE NAME		 ‰»Î1
+
+ DEFINE STATE	 fully defined feature   
+
+ FEATURE NAME	 ProEImportedBodyFeature
+
+ FEATURE TYPE	 Import  
+
+ CONVERSION STATUS	Converted Successfully 
+ 
+ 
+ 
+ 
+ 
+ 
+ The final status is : 
+ 
+ Geometric Features: 
+ 	  Fully defined :- 1
+ 	  Defined using wild cards :- 0
+ 	  [Problems in conversion:- 0]
+ 	  Undefined :- 0
+ 
+ No. of non-geometric features :- 1
